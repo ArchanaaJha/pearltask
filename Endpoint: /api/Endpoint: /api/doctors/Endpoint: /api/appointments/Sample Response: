@@ -1,0 +1,7 @@
+{
+  "appointment_id": "abc123",
+  "doctor_name": "Dr. John Doe",
+  "patient_name": "Alice Smith",
+  "appointment_date": "2023-10-20",
+  "appointment_time": "6:30 PM"
+}
