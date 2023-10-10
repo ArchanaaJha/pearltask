@@ -1,0 +1,9 @@
+{
+  "id": 1,
+  "name": "Dr. John Doe",
+  "specialization": "Cardiologist",
+  "location": "XYZ Hospital",
+  "available_days": ["Monday", "Wednesday", "Friday"],
+  "consultation_hours": "6:00 PM - 9:00 PM",
+  "max_patients_per_slot": 5
+}
